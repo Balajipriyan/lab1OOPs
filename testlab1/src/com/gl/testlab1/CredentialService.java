@@ -53,7 +53,7 @@ int length = 8;
 			System.out.println("Password:"+generatePassword());
 			break;
 		default:
-			System.out.println();
+			System.out.println("Invalid selection");
 		}
 	}
 }
